@@ -1,0 +1,4 @@
+kivymd
+kivy.deps.angle
+kivy.deps.gstreamer
+kivy.deps.sdl2
